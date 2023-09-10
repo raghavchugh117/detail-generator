@@ -1,0 +1,316 @@
+2021-02-18 04:00:07 - INFO - Starting execution of file name_generator.py
+2021-02-18 04:00:07 - INFO - Parameters to fetch data:
+2021-02-18 04:00:07 - INFO - Number of Records -> numrecords: 100
+2021-02-18 04:00:07 - INFO - Create object and defining variables.
+2021-02-18 04:00:07 - INFO - Running setup function.
+2021-02-18 04:00:07 - INFO - Setting Chrome to Headless mode.
+2021-02-18 04:00:07 - INFO - Opening Browser.
+2021-02-18 04:00:08 - INFO - Going to URL.
+2021-02-18 04:00:09 - INFO - Fetching data.
+2021-02-18 04:00:09 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:00:09 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:00:10 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:00:10 - INFO - Clicking generate button.
+2021-02-18 04:01:05 - INFO - ------------------------------------------------------------------------------------------
+2021-02-18 04:01:05 - INFO - Starting execution of file name_generator.py
+2021-02-18 04:01:05 - INFO - Parameters to fetch data:
+2021-02-18 04:01:05 - INFO - Number of Records -> numrecords: 15
+2021-02-18 04:01:05 - INFO - Create object and defining variables.
+2021-02-18 04:01:05 - INFO - Running setup function.
+2021-02-18 04:01:05 - INFO - Setting Chrome to Headless mode.
+2021-02-18 04:01:05 - INFO - Opening Browser.
+2021-02-18 04:02:09 - ERROR - Message: unknown error: unable to discover open pages
+
+2021-02-18 04:02:55 - INFO - ------------------------------------------------------------------------------------------
+2021-02-18 04:02:55 - INFO - Starting execution of file name_generator.py
+2021-02-18 04:02:55 - INFO - Parameters to fetch data:
+2021-02-18 04:02:55 - INFO - Number of Records -> numrecords: 15
+2021-02-18 04:02:55 - INFO - Create object and defining variables.
+2021-02-18 04:02:55 - INFO - Running setup function.
+2021-02-18 04:02:55 - INFO - Setting Chrome to Headless mode.
+2021-02-18 04:02:55 - INFO - Opening Browser.
+2021-02-18 04:02:56 - INFO - Going to URL.
+2021-02-18 04:03:00 - INFO - Fetching data.
+2021-02-18 04:03:00 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:00 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:00 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:01 - INFO - Clicking generate button.
+2021-02-18 04:03:02 - INFO - Locating name.
+2021-02-18 04:03:02 - INFO - Locating address.
+2021-02-18 04:03:02 - INFO - Locating all other info.
+2021-02-18 04:03:03 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:03 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:03 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:03 - INFO - Clicking generate button.
+2021-02-18 04:03:04 - INFO - Locating name.
+2021-02-18 04:03:04 - INFO - Locating address.
+2021-02-18 04:03:04 - INFO - Locating all other info.
+2021-02-18 04:03:05 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:05 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:05 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:05 - INFO - Clicking generate button.
+2021-02-18 04:03:06 - INFO - Locating name.
+2021-02-18 04:03:06 - INFO - Locating address.
+2021-02-18 04:03:06 - INFO - Locating all other info.
+2021-02-18 04:03:07 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:07 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:07 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:07 - INFO - Clicking generate button.
+2021-02-18 04:03:09 - INFO - Locating name.
+2021-02-18 04:03:09 - INFO - Locating address.
+2021-02-18 04:03:09 - INFO - Locating all other info.
+2021-02-18 04:03:09 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:09 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:10 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:10 - INFO - Clicking generate button.
+2021-02-18 04:03:11 - INFO - Locating name.
+2021-02-18 04:03:11 - INFO - Locating address.
+2021-02-18 04:03:11 - INFO - Locating all other info.
+2021-02-18 04:03:12 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:12 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:12 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:12 - INFO - Clicking generate button.
+2021-02-18 04:03:13 - INFO - Locating name.
+2021-02-18 04:03:13 - INFO - Locating address.
+2021-02-18 04:03:13 - INFO - Locating all other info.
+2021-02-18 04:03:14 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:14 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:14 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:14 - INFO - Clicking generate button.
+2021-02-18 04:03:15 - INFO - Locating name.
+2021-02-18 04:03:15 - INFO - Locating address.
+2021-02-18 04:03:15 - INFO - Locating all other info.
+2021-02-18 04:03:16 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:16 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:16 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:16 - INFO - Clicking generate button.
+2021-02-18 04:03:17 - INFO - Locating name.
+2021-02-18 04:03:17 - INFO - Locating address.
+2021-02-18 04:03:17 - INFO - Locating all other info.
+2021-02-18 04:03:18 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:18 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:18 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:18 - INFO - Clicking generate button.
+2021-02-18 04:03:18 - INFO - Locating name.
+2021-02-18 04:03:18 - INFO - Locating address.
+2021-02-18 04:03:18 - INFO - Locating all other info.
+2021-02-18 04:03:19 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:19 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:19 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:19 - INFO - Clicking generate button.
+2021-02-18 04:03:20 - INFO - Locating name.
+2021-02-18 04:03:20 - INFO - Locating address.
+2021-02-18 04:03:20 - INFO - Locating all other info.
+2021-02-18 04:03:21 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:21 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:21 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:21 - INFO - Clicking generate button.
+2021-02-18 04:03:22 - INFO - Locating name.
+2021-02-18 04:03:22 - INFO - Locating address.
+2021-02-18 04:03:22 - INFO - Locating all other info.
+2021-02-18 04:03:23 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:23 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:23 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:23 - INFO - Clicking generate button.
+2021-02-18 04:03:24 - INFO - Locating name.
+2021-02-18 04:03:24 - INFO - Locating address.
+2021-02-18 04:03:24 - INFO - Locating all other info.
+2021-02-18 04:03:25 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:25 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:25 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:25 - INFO - Clicking generate button.
+2021-02-18 04:03:26 - INFO - Locating name.
+2021-02-18 04:03:26 - INFO - Locating address.
+2021-02-18 04:03:26 - INFO - Locating all other info.
+2021-02-18 04:03:27 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:27 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:27 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:27 - INFO - Clicking generate button.
+2021-02-18 04:03:28 - INFO - Locating name.
+2021-02-18 04:03:28 - INFO - Locating address.
+2021-02-18 04:03:28 - INFO - Locating all other info.
+2021-02-18 04:03:29 - INFO - Selecting gender dropdown as Random.
+2021-02-18 04:03:29 - INFO - Selecting Name Set dropdown randomly.
+2021-02-18 04:03:29 - INFO - Selecting Country dropdown randomly.
+2021-02-18 04:03:29 - INFO - Clicking generate button.
+2021-02-18 04:03:30 - INFO - Locating name.
+2021-02-18 04:03:30 - INFO - Locating address.
+2021-02-18 04:03:30 - INFO - Locating all other info.
+2021-02-18 04:03:31 - INFO - Running teardown function.
+2021-02-18 04:03:31 - INFO - Parameters to save data to file:
+2021-02-18 04:03:31 - INFO - File Name -> filename: random_details.csv
+2021-02-18 04:03:31 - INFO - Mode to write data -> mode: a+
+2021-02-18 04:03:31 - INFO - Write Headers -> header: False
+2021-02-18 04:03:31 - INFO - Time taken to complete operation: 0:00:30.231268
+2021-02-18 04:08:12 - INFO - ------------------------------------------------------------------------------------------
+2021-02-18 04:08:12 - INFO - Starting execution of file name_generator.py
+2021-02-18 04:08:12 - INFO - Parameters to fetch data:
+2021-02-18 04:08:12 - INFO - Number of Records -> numrecords: 15
+2021-02-18 04:08:12 - INFO - Create object and defining variables.
+2021-02-18 04:08:12 - INFO - ---------------------------------
+2021-02-18 04:08:12 - INFO - Running setup function.
+2021-02-18 04:08:12 - INFO - ---------------------------------
+2021-02-18 04:08:12 - INFO - Setting Chrome to Headless mode.
+2021-02-18 04:08:12 - INFO - Opening Browser.
+2021-02-18 04:08:13 - INFO - Going to URL.
+2021-02-18 04:08:17 - INFO - ---------------------------------
+2021-02-18 04:08:17 - INFO - Fetching data.
+2021-02-18 04:08:17 - INFO - ---------------------------------
+2021-02-18 04:08:19 - INFO - Successfully generated detail number:0
+2021-02-18 04:08:21 - INFO - Successfully generated detail number:1
+2021-02-18 04:08:23 - INFO - Successfully generated detail number:2
+2021-02-18 04:08:26 - INFO - Successfully generated detail number:3
+2021-02-18 04:08:28 - INFO - Successfully generated detail number:4
+2021-02-18 04:08:29 - INFO - Successfully generated detail number:5
+2021-02-18 04:08:30 - INFO - Successfully generated detail number:6
+2021-02-18 04:08:32 - INFO - Successfully generated detail number:7
+2021-02-18 04:08:33 - INFO - Successfully generated detail number:8
+2021-02-18 04:08:36 - INFO - Successfully generated detail number:9
+2021-02-18 04:08:38 - INFO - Successfully generated detail number:10
+2021-02-18 04:08:40 - INFO - Successfully generated detail number:11
+2021-02-18 04:08:42 - INFO - Successfully generated detail number:12
+2021-02-18 04:08:44 - INFO - Successfully generated detail number:13
+2021-02-18 04:08:46 - INFO - Successfully generated detail number:14
+2021-02-18 04:08:46 - INFO - ---------------------------------
+2021-02-18 04:08:46 - INFO - Running teardown function.
+2021-02-18 04:08:46 - INFO - ---------------------------------
+2021-02-18 04:08:46 - INFO - ---------------------------------
+2021-02-18 04:08:46 - INFO - Starting to write data to file.
+2021-02-18 04:08:46 - INFO - ---------------------------------
+2021-02-18 04:08:46 - INFO - Parameters to save data to file:
+2021-02-18 04:08:46 - INFO - File Name -> filename: random_details.csv
+2021-02-18 04:08:46 - INFO - Mode to write data -> mode: a+
+2021-02-18 04:08:46 - INFO - Write Headers -> header: False
+2021-02-18 04:08:46 - INFO - Data written successfully to file.
+2021-02-18 04:08:46 - INFO - ---------------------------------
+2021-02-18 04:08:46 - INFO - !!!Operation Completed Successfully!!!
+2021-02-18 04:08:46 - INFO - Time taken to complete operation: 0:00:29.138177
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - ------------------------------------------------------------------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - Starting execution of file name_generator.py
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - Parameters to fetch data:
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - Number of Records -> numrecords: 15
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - Create object and defining variables.
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - Running setup function.
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - Setting Chrome to Headless mode.
+2696 - MainProcess - 24536 - 2021-02-18 04:10:56 - INFO - Opening Browser.
+2696 - MainProcess - 24536 - 2021-02-18 04:10:57 - INFO - Going to URL.
+2696 - MainProcess - 24536 - 2021-02-18 04:11:00 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:11:00 - INFO - Fetching data.
+2696 - MainProcess - 24536 - 2021-02-18 04:11:00 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:11:01 - INFO - Successfully generated detail number:0
+2696 - MainProcess - 24536 - 2021-02-18 04:11:03 - INFO - Successfully generated detail number:1
+2696 - MainProcess - 24536 - 2021-02-18 04:11:06 - INFO - Successfully generated detail number:2
+2696 - MainProcess - 24536 - 2021-02-18 04:11:08 - INFO - Successfully generated detail number:3
+2696 - MainProcess - 24536 - 2021-02-18 04:11:09 - INFO - Successfully generated detail number:4
+2696 - MainProcess - 24536 - 2021-02-18 04:11:11 - INFO - Successfully generated detail number:5
+2696 - MainProcess - 24536 - 2021-02-18 04:11:13 - INFO - Successfully generated detail number:6
+2696 - MainProcess - 24536 - 2021-02-18 04:11:15 - INFO - Successfully generated detail number:7
+2696 - MainProcess - 24536 - 2021-02-18 04:11:16 - INFO - Successfully generated detail number:8
+2696 - MainProcess - 24536 - 2021-02-18 04:11:18 - INFO - Successfully generated detail number:9
+2696 - MainProcess - 24536 - 2021-02-18 04:11:20 - INFO - Successfully generated detail number:10
+2696 - MainProcess - 24536 - 2021-02-18 04:11:23 - INFO - Successfully generated detail number:11
+2696 - MainProcess - 24536 - 2021-02-18 04:11:24 - INFO - Successfully generated detail number:12
+2696 - MainProcess - 24536 - 2021-02-18 04:11:26 - INFO - Successfully generated detail number:13
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Successfully generated detail number:14
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Running teardown function.
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Starting to write data to file.
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Parameters to save data to file:
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - File Name -> filename: random_details.csv
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Mode to write data -> mode: a+
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Write Headers -> header: False
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Data written successfully to file.
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - ---------------------------------
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - !!!Operation Completed Successfully!!!
+2696 - MainProcess - 24536 - 2021-02-18 04:11:28 - INFO - Time taken to complete operation: 0:00:28.176333
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - ------------------------------------------------------------------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - Starting execution of file name_generator.py
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - Parameters to fetch data:
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - Number of Records -> numrecords: 15
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - Create object and defining variables.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - Running setup function.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - Setting Chrome to Headless mode.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:10 - INFO - Opening Browser.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:11 - INFO - Going to URL.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:15 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:15 - INFO - Fetching data.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:15 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:17 - INFO - Successfully generated detail number:1
+17776 - MainProcess - 12016 - 2021-02-18 04:12:18 - INFO - Successfully generated detail number:2
+17776 - MainProcess - 12016 - 2021-02-18 04:12:21 - INFO - Successfully generated detail number:3
+17776 - MainProcess - 12016 - 2021-02-18 04:12:22 - INFO - Successfully generated detail number:4
+17776 - MainProcess - 12016 - 2021-02-18 04:12:24 - INFO - Successfully generated detail number:5
+17776 - MainProcess - 12016 - 2021-02-18 04:12:26 - INFO - Successfully generated detail number:6
+17776 - MainProcess - 12016 - 2021-02-18 04:12:29 - INFO - Successfully generated detail number:7
+17776 - MainProcess - 12016 - 2021-02-18 04:12:32 - INFO - Successfully generated detail number:8
+17776 - MainProcess - 12016 - 2021-02-18 04:12:34 - INFO - Successfully generated detail number:9
+17776 - MainProcess - 12016 - 2021-02-18 04:12:36 - INFO - Successfully generated detail number:10
+17776 - MainProcess - 12016 - 2021-02-18 04:12:38 - INFO - Successfully generated detail number:11
+17776 - MainProcess - 12016 - 2021-02-18 04:12:40 - INFO - Successfully generated detail number:12
+17776 - MainProcess - 12016 - 2021-02-18 04:12:42 - INFO - Successfully generated detail number:13
+17776 - MainProcess - 12016 - 2021-02-18 04:12:44 - INFO - Successfully generated detail number:14
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Successfully generated detail number:15
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Running teardown function.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Starting to write data to file.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Parameters to save data to file:
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - File Name -> filename: random_details.csv
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Mode to write data -> mode: a+
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Write Headers -> header: False
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Data written successfully to file.
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - ---------------------------------
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - !!!Operation Completed Successfully!!!
+17776 - MainProcess - 12016 - 2021-02-18 04:12:45 - INFO - Time taken to complete operation: 0:00:30.677067
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - ------------------------------------------------------------------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - Starting execution of file details_generator.py
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - Parameters to fetch data:
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - Number of Records -> numrecords: 15
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - Create object and defining variables.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - Running setup function.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - Setting Chrome to Headless mode.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:18 - INFO - Opening Browser.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:20 - INFO - Going to URL.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:22 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:22 - INFO - Fetching data.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:22 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:24 - INFO - Successfully generated detail number:1
+23884 - MainProcess - 24184 - 2021-02-18 04:13:26 - INFO - Successfully generated detail number:2
+23884 - MainProcess - 24184 - 2021-02-18 04:13:27 - INFO - Successfully generated detail number:3
+23884 - MainProcess - 24184 - 2021-02-18 04:13:30 - INFO - Successfully generated detail number:4
+23884 - MainProcess - 24184 - 2021-02-18 04:13:31 - INFO - Successfully generated detail number:5
+23884 - MainProcess - 24184 - 2021-02-18 04:13:34 - INFO - Successfully generated detail number:6
+23884 - MainProcess - 24184 - 2021-02-18 04:13:36 - INFO - Successfully generated detail number:7
+23884 - MainProcess - 24184 - 2021-02-18 04:13:38 - INFO - Successfully generated detail number:8
+23884 - MainProcess - 24184 - 2021-02-18 04:13:40 - INFO - Successfully generated detail number:9
+23884 - MainProcess - 24184 - 2021-02-18 04:13:43 - INFO - Successfully generated detail number:10
+23884 - MainProcess - 24184 - 2021-02-18 04:13:45 - INFO - Successfully generated detail number:11
+23884 - MainProcess - 24184 - 2021-02-18 04:13:47 - INFO - Successfully generated detail number:12
+23884 - MainProcess - 24184 - 2021-02-18 04:13:50 - INFO - Successfully generated detail number:13
+23884 - MainProcess - 24184 - 2021-02-18 04:13:52 - INFO - Successfully generated detail number:14
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Successfully generated detail number:15
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Running teardown function.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Starting to write data to file.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Parameters to save data to file:
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - File Name -> filename: random_details.csv
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Mode to write data -> mode: a+
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Write Headers -> header: False
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Data written successfully to file.
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - ---------------------------------
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - !!!Operation Completed Successfully!!!
+23884 - MainProcess - 24184 - 2021-02-18 04:13:55 - INFO - Time taken to complete operation: 0:00:32.886905
